@@ -1,0 +1,13 @@
+
+
+name & schema
+
+{
+  fireName: String,
+  lastName: String,
+  email: String,
+  phoneNumber: String,
+  age: String,
+  country: String,
+  gender: String,
+}
