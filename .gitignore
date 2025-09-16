@@ -1,1 +1,104 @@
-node_modules
+# Logs
+logs
+log
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Diagnostic reports
+report.*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage
+*.lcov
+.nyc_output
+
+# Build artifacts
+build
+build/Release
+dist
+out
+public
+
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components
+web_modules/
+
+# Caches
+.cache
+.parcel-cache
+.eslintcache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+.vite
+.turbo
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional npm cache dir
+.npm
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Frameworks
+.next
+.nuxt
+.svelte-kit
+.vuepress/dist
+.storybook-out
+storybook-static
+.grunt
+
+# Static site generators
+.cache/
+public/
+
+# Serverless
+.serverless/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# IDEs/editors
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.vscode-test
+.idea
+*.iml
+
+# Misc
+.tern-port
+.pnp*
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+*.swp
+*.swo
+tmp
+temp
